@@ -1,0 +1,98 @@
+body {
+    background-color: #9c7139;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.memo {
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px black;
+    margin: 15px 20px 15px 20px;
+    position: relative;
+}
+.memo-inner-wrap {
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.memo:nth-child(3n + 1) {
+    background-color: #f5e37b;
+}
+
+.memo:nth-child(3n + 2) {
+    background-color: pink;
+}
+
+.memo:nth-child(3n) {
+    background-color: cyan;
+}
+
+#panel {
+    padding: 10px;
+    background-color: #871413;
+    min-width: 280px;
+}
+
+.memo-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.memo-content {
+    white-space: pre;
+}
+
+.trash-button,
+.edit-button,
+.like-button {
+    color: black;
+    background-color: white;
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    transition: all 1s linear;
+}
+
+.trash-button:hover,
+.edit-button:hover,
+.like-button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: lightgray;
+}
+
+.trash-button {
+    top: -20px;
+    right: -20px;
+}
+.edit-button {
+    bottom: -20px;
+    right: -20px;
+}
+
+.like-button {
+    top: -20px;
+    left: -20px;
+}
+
+.admin-only {
+    display: none;
+}
+
+.admin-role .admin-only {
+    display: flex;
+}
+
+.admin-console-btn {
+    color: white;
+}
