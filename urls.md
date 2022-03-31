@@ -1,1 +1,1 @@
-http://127.0.0.1:5500/?messages=["Welcome","To","Oneonta]
+https://zeuscsc.github.io/ReU-LARP/?messages=["Welcome","To","Clavis","Salomonis","High","School","😄"]
