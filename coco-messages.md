@@ -15,7 +15,10 @@ but none of us believe it
 there were just way too many deaths
 no way all of those were accidents
 those death events stopped after Carrie and P̤̤͖ͪ͑̕͜͜h̨͚͚͖ͯ̒̄͗͞ḛ̡̰̳͓̥ͬ͋ͪͧn̫̫̘̗͕̲̲̎ͥḛ̡̰̳͓̥ͬ͋ͪͧx͕͕͚͍̿̆͂͞ dead
-after the massacre we did some investigation about this
-and came up with a conclusion
+after the massacre we did some investigation about all the accidents
+and came up with some conclusions
+P̤̤͖ͪ͑̕͜͜h̨͚͚͖ͯ̒̄͗͞ḛ̡̰̳͓̥ͬ͋ͪͧn̫̫̘̗͕̲̲̎ͥḛ̡̰̳͓̥ͬ͋ͪͧx͕͕͚͍̿̆͂͞ shold be dead long ago and we don't know why we didn't notice it before
+After P̤̤͖ͪ͑̕͜͜h̨͚͚͖ͯ̒̄͗͞ḛ̡̰̳͓̥ͬ͋ͪͧn̫̫̘̗͕̲̲̎ͥḛ̡̰̳͓̥ͬ͋ͪͧx͕͕͚͍̿̆͂͞ dead there has been no more deadly accidents in Clavis Salomonis High
+We believe this must be somehow related
 no matter what please remember
 let the dead return dead
