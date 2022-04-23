@@ -1,0 +1,2 @@
+What is your goal?(500 words)
+The most important goal I want to achieve in my life is to get married and be a happy family. Ever since I was a little girl I always tried to imagine my wedding and my perfect life after marriage. There is this part of me that can 't wait for me to be settled and have someone close to me that cares about me. But there is another part that has this fear of giving up my independence and not being truly loved.

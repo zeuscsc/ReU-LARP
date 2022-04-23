@@ -1,4 +1,4 @@
-Class B Group 2
+Class A Group 6
 You are secretly married to Helen, you need to show her your love without anyone notice during the reunion.
 You are also a successful person, but you don't want others know you have a secret wife.
 You have 5 billion cash reserved for Coconut Foundation but you can also use that on something else if you needed.

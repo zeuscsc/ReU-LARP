@@ -1,0 +1,7 @@
+Things you do for your friends (500 words)
+When you read the words “positive gossip,” what comes to mind?  It is difficult to imagine that anything about gossip could be positive?  Most of us picture two people huddled close, one whispering in the other’s ear, eyes darting back and forth.
+I use materials that is not harmful to anyone for gossip.  For example, I tell others about other about a man that was once a girl.  He has got over with it already and he is also a active member of LGBT.  Telling others about his story should not be harmful to anyone right?
+Gossip is often a favorite recreation and an innocent pastime at all levels of society, in all walks of life and in all ages,” those who have been embarrassed for no reason, or suffer from its radiation, will agree that “fire and sword are slow engines of destruction in comparison with the babbler.”
+If you throw a stone on the quiet waters of a pond, you will see successive rings of ripples, one larger than the other. The effects of gossip are in no way dissimilar. “The flying rumours gathered”, wrote Pope, “and all who heard it made enlargement too; in every year it spread, on every tongue it grew.”
+I am the kind of girl that gossip alot.  Gossip will not only have negative effects, but it will actually be the glue between friends.
+As you will soon discover, there is such a thing as positive and even neutral gossip. You will also learn that gossip, whether it is negative, positive, or neutral, serve a purpose in every society. It has since humans began speaking.
