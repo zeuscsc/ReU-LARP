@@ -1,5 +1,8 @@
 Class A Group 4
-You are secretly married to Polo, you need to show him your love without anyone notice during the reunion.
+You are secretly married to S.H., you need to show him your love without anyone notice during the reunion.
 Your have 1 Million savings, you can use them to anywhere you like.
 You helped your secret harband laundered 5 Billion cash and you should keep it secret if he show you his love to you.
 You also shouldn't allows any other know you guys are related or the dark money secret may be expose.
+
+Characteristics:
+You like S.H. when you were a high school student, and you are the jealous type.
