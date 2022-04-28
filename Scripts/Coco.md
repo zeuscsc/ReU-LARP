@@ -11,4 +11,8 @@ Keep the secret between S.H., Helen and Coco.  If the news reporter expose your 
 
 Characteristics:
 You want to be philanthropist when you were young.  You like to help others improve by pointing out their mistakes.
-You are owners of NGO.
+You are then owner of many NGO.
+
+Rules:
+Don't say the word "劇本話" try to act more.
+You can lie about anything I said about you the script only provide information you need to know.

@@ -14,3 +14,8 @@ Keep the secret between S.H., Helen and Coco.  If the news reporter expose your 
 
 Characteristics:
 You are rich and you think money can bring you friendship.  You don't mind what kind of methods you have to use inorder to get your money.
+You gave lots of money to your friends back in High School as specially your girl friend Helen.
+
+Rules:
+Don't say the word "劇本話" try to act more.
+You can lie about anything I said about you the script only provide information you need to know.

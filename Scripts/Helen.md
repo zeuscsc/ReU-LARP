@@ -12,3 +12,9 @@ Keep the secret between S.H., Helen and Coco.  If the news reporter expose your 
 
 Characteristics:
 You like S.H. when you were a high school student.
+You were jealous type (mean girls).
+You asked S.H. to give you money to hack into the school System and changed the site's cover where.
+
+Rules:
+Don't say the word "劇本話" try to act more.
+You can lie about anything I said about you the script only provide information you need to know.

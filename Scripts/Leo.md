@@ -9,18 +9,8 @@ Try to get some solid proof (witness/evidence) about the crime of S.H. Tang.
 
 Characteristics:
 You like to question everyone.
+You once punished CL for breaking the rule of the school.
 
-
-
-
-
-
-Background:
-You were a professor, and your research projects was funded by S.H..  He have cut off your budget recently and you need your budget back.
-Try to persuade or blackmail him inorder to achieve your goal.
-
-Target:
-Try to get as much money as you can from S.H.
-
-Characteristics:
-You are a professor, full of pride and prejudice.  Like to teach people things.
+Rules:
+Don't say the word "劇本話" try to act more.
+You can lie about anything I said about you the script only provide information you need to know.
