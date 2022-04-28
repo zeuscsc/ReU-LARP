@@ -1,0 +1,9 @@
+Mother Teresa (500 words)
+There are many humanitarian in the history of the world. Out of the blue, Mother Teresa stood in that crowd of people. She is a lady of great caliber who spends her whole life serving the poor and needy people. Although she was not an Indian still she came to India to help its people. Above all, in this essay on Mother Teresa, we are going to discuss the various aspects of her life.
+Mother Teresa was not his actual name but after becoming a nun she received this name from the church after the name of St. Teresa. By birth, she was a Christian and a great believer of God. And due to this reason, she chooses to become a Nun.
+The Beginning of Mother Teresa’s Journey
+Since she was born in a Catholic Christian family she was a great believer of God and humanity. Although she spends most of her life in the church she never imagines herself to be a nun one day. When she visited Kolkata (Calcutta), India after completing her work in Dublin her life completely changed. For 15 consecutive years, she enjoyed teaching children.
+Along with, teaching school children she worked hard to teach the poor kids of that area. She started her journey of humanity by opening an open-air school where she started teaching poor children. For years she worked alone without any funds but still continues to teach students.
+Her Missionary
+For doing this great work of teaching poor and helping needy people she wants a permanent place. This place will serve as her headquarters and a place where poor and homeless can take shelter.
+So, with the help of the church and the people, she established a missionary where poor and homeless can live and die in peace. Later on, she manages to open several schools, homes, dispensaries, and hospitals through her NGO both in India and overseas countries.

@@ -1,9 +1,11 @@
 Class A Group 3
+
 Background:
-You are a pyramid scheme sale.  You know that S.H. got billions of cash that is available to use.  It could be dark money but you got no proof.  
+You are a reporter in City News and your boss ask you to dig some news.
+That's the main reason you join the reunion.
+
 Target:
-But it doesn't matter, you will get as much as you can by negotiating with others or blackmail S.H..
+You can expose the secret (only with witness/evidence) or blackmail anyone and get as much as possible.
 
 Characteristics:
-You like to talk and lies, you like gossiping about others. After glow up, you like to trade secret of others for money.
-When others ask about your job, you can consider lying about it.
+You like to talk and lies, you like gossiping about others.

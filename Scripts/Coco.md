@@ -1,11 +1,13 @@
 Class A Group 1
 
 Background:
-You are setting up a new NGO for charity which is called Coconut Foundation, and you need 5 billion for it.
-S.H. is planning to pay that for you.  You join the reunion to make sure that happen.
+After many years, you are already the board of Salomonis High.  You want to setup a new charity group which is called Coconut Foundation, and you need 5 billion for it.
+S.H. is planning to pay that for you.  
+You know that those money is dark money and to need to pay Helen back 3 billion after the Foundation is created.
+You join the reunion to make sure everything goes according to plan.
 
 Target:
-Many others want to get that money from S.H. too.  Try to make sure you are the one who get that money.
+Keep the secret between S.H., Helen and Coco.  If the news reporter expose your secret (he/she/they may choose not to) or the Police found out, all of your money will go away.
 
 Characteristics:
 You want to be philanthropist when you were young.  You like to help others improve by pointing out their mistakes.
