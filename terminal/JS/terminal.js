@@ -43,23 +43,32 @@ const execute = function executeCommand(input) {
   } else if (input === "github") {
     open("https://github.com/zeuscsc/");
   } else if (input==="sh love helen"||input==="helen love sh"){
-    output+="Root access gained";
+    output="Root access gained";
     rootAccess=true;
   } else if(input==="open ethereum_invoice_01"){
     if(rootAccess)
       open("https://invoice.build/invoices/63b33fc1-3c61-4422-b148-33655ac1af6c");
-    else
-      output+="No access right";
+      else{
+        output="No access right";
+        terminalOutput.innerHTML = `${terminalOutput.innerHTML}<br><div class="terminal-line">${output}<br></div>`;
+        terminalOutput.scrollTop = terminalOutput.scrollHeight;
+      }
   } else if(input==="open ethereum_invoice_02"){
     if(rootAccess)
       open("https://invoice.build/invoices/fed86b1c-c986-4d84-b9b6-374690e00192");
-    else
-      output+="No access right";
+      else{
+        output="No access right";
+        terminalOutput.innerHTML = `${terminalOutput.innerHTML}<br><div class="terminal-line">${output}<br></div>`;
+        terminalOutput.scrollTop = terminalOutput.scrollHeight;
+      }
   } else if(input==="open donation_receipt"){
     if(rootAccess)
       open("../Donation_Receipt.svg");
-    else
-      output+="No access right";
+    else{
+      output="No access right";
+      terminalOutput.innerHTML = `${terminalOutput.innerHTML}<br><div class="terminal-line">${output}<br></div>`;
+      terminalOutput.scrollTop = terminalOutput.scrollHeight;
+    }
   }else {
     output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
     if (!COMMANDS.hasOwnProperty(input)) {
