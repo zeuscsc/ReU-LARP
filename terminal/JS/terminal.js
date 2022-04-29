@@ -49,17 +49,17 @@ const execute = function executeCommand(input) {
     if(rootAccess)
       open("https://invoice.build/invoices/63b33fc1-3c61-4422-b148-33655ac1af6c");
     else
-      output="No access right";
+      output+="No access right";
   } else if(input==="open ethereum_invoice_02"){
     if(rootAccess)
       open("https://invoice.build/invoices/fed86b1c-c986-4d84-b9b6-374690e00192");
     else
-      output="No access right";
+      output+="No access right";
   } else if(input==="open donation_receipt"){
     if(rootAccess)
       open("../Donation_Receipt.svg");
     else
-      output="No access right";
+      output+="No access right";
   }else {
     output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
     if (!COMMANDS.hasOwnProperty(input)) {
