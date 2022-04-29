@@ -6,26 +6,16 @@ let rootAccess = false;
 // console.log("Welcome to my website!");
 
 const COMMANDS = {
-  // rd: "Whoa!!! You found the secret command!!! To get access to the beta for my apps, go <a href = 'https://blackholegames.gq/beta' target = '_blank' style = 'color:#000;'> here </a> <br>The beta code is A3T4M",
-  // n: "OK",
-  // no: "OK",
   about:
     "If you see this terminal, that mean you can hack into the school server.<br>To make sure you are my client, please input the secret code.",
   ls:
-    "&nbsp;&nbsp;record_01&nbsp;&nbsp;&nbsp;&nbsp;record_02&nbsp;&nbsp;&nbsp;&nbsp;record_03",
-  // cd: "changed directory to root..",
-  // "cd ..": "cd: no such file or directory",
-  // "cd var": "var aliased to ../",
-  // "cd root": "access denied",
-  // "cd usr": "no users found",
-
-  // "cd home": "home was aliased to .",
-  // sudo: "user not in the sudoers file.  This incident will be reported.",
+    "&nbsp;&nbsp;Ethereum_Invoice_01&nbsp;&nbsp;&nbsp;&nbsp;Ethereum_Invoice_02&nbsp;&nbsp;&nbsp;&nbsp;Donation_Receipt",
+  sudo: "user not in the sudoers file.  This incident will be reported.",
   help:
-    'Not important commands: <span class="code">about</span>, <span class="code">contact</span>, <span class="code">github</span><br>System commands: <span class="code">clear</span>, <span class="code">history</span>, <span class="code">open</span>, <span class="code">ls</span><br>To make sure you are my client, please input the secret code.<br>Tip: Use Up / Down arrow to go through recent commands',
+    'System commands: <span class="code">clear</span>, <span class="code">history</span>, <span class="code">open</span>, <span class="code">ls</span><br>To make sure you are my client, please input the secret code.<br>Tip: Use Up / Down arrow to go through recent commands',
   contact:
     "Form: <a href='https://zeuschiu.com' class='link'> Zeus Chiu</a><br>",
-  // "sh love helen":"root access gained",
+  open:"usage: open [file path]",
 };
 
 const app = () => {
@@ -46,9 +36,7 @@ const execute = function executeCommand(input) {
     input = "sudo";
   }
 
-  if (input == "projects") {
-    open("pages/projects.html");
-  } else if (input === "clear" || input === "cls") {
+  if (input === "clear" || input === "cls") {
     clearScreen();
   } else if (input === "history") {
     showHist();
@@ -57,6 +45,12 @@ const execute = function executeCommand(input) {
   } else if (input==="sh love helen"||input==="helen love sh"){
     output+="Root access gained";
     rootAccess=true;
+  } else if(input==="open Ethereum_Invoice_01"){
+    open("https://invoice.build/invoices/58dc61f7-3645-414f-bebb-767b81957d9e");
+  } else if(input==="open Ethereum_Invoice_02"){
+    open("https://invoice.build/invoices/58dc61f7-3645-414f-bebb-767b81957d9e");
+  } else if(input==="open Donation_Receipt"){
+    open("../Donation_Receipt.svg");
   }else {
     output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
     if (!COMMANDS.hasOwnProperty(input)) {
