@@ -49,7 +49,7 @@ const execute = function executeCommand(input) {
     open("https://invoice.build/invoices/63b33fc1-3c61-4422-b148-33655ac1af6c");
   } else if(input==="open ethereum_invoice_02"){
     open("https://invoice.build/invoices/fed86b1c-c986-4d84-b9b6-374690e00192");
-  } else if(input==="open Donation_Receipt"){
+  } else if(input==="open donation_receipt"){
     open("../Donation_Receipt.svg");
   }else {
     output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
