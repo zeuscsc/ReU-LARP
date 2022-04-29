@@ -45,9 +45,9 @@ const execute = function executeCommand(input) {
   } else if (input==="sh love helen"||input==="helen love sh"){
     output+="Root access gained";
     rootAccess=true;
-  } else if(input==="open Ethereum_Invoice_01"){
+  } else if(input==="open ethereum_invoice_01"){
     open("https://invoice.build/invoices/63b33fc1-3c61-4422-b148-33655ac1af6c");
-  } else if(input==="open Ethereum_Invoice_02"){
+  } else if(input==="open ethereum_invoice_02"){
     open("https://invoice.build/invoices/fed86b1c-c986-4d84-b9b6-374690e00192");
   } else if(input==="open Donation_Receipt"){
     open("../Donation_Receipt.svg");
